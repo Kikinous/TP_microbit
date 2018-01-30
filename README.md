@@ -1,5 +1,3 @@
-# TP_microbit
-
 **Les sources des sujets sont dans :**
 * sujet1.tex
 * sujet2.tex
